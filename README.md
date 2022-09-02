@@ -1,5 +1,15 @@
 # UI Component Of Dumi
 
+## 项目预览
+
+```JavaScript
+  npm install
+
+  npm run start
+```
+
+## 项目介绍
+
 框架语言基于`react`，`markdown`负责自定义组件文档，通过 [father](!https://github.com/umijs/father) 进行打包。
 
 1. [主题](https://d.umijs.org/zh-CN/theme)  

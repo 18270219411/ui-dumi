@@ -11,15 +11,15 @@ export default defineConfig({
     null,
     {
       title: '配置',
-      path: 'https://d.umijs.org/config',
+      path: 'https://d.umijs.org/zh-CN/config',
     },
     {
       title: '主题',
-      path: 'https://d.umijs.org/theme',
+      path: 'https://d.umijs.org/zh-CN/theme',
     },
     {
       title: '插件',
-      path: 'https://d.umijs.org/plugin',
+      path: 'https://d.umijs.org/zh-CN/plugin',
     },
     {
       title: 'Github',
